@@ -1,0 +1,11 @@
+{
+  "secret": "studies",
+  "correct_letters": [
+    "e",
+    "t"
+  ],
+  "incorrect_letters": [
+    "a"
+  ],
+  "remaining_guesses": 5
+}
